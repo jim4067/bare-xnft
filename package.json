@@ -1,0 +1,21 @@
+{
+	"name": "xnft-quickstart",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "xnft build",
+		"start": "xnft native start",
+		"dev": "xnft dev",
+		"clean": "rm -rf node_modules yarn.lock"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"react": "^17.0.2",
+		"react-xnft": "latest"
+	},
+	"devDependencies": {
+		"@coral-xyz/xnft-cli": "latest"
+	}
+}
