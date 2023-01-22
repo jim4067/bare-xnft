@@ -1,8 +1,7 @@
 import React from "react";
-import ReactXnft, { Tab, View } from "react-xnft";
+import ReactXnft, { View } from "react-xnft";
 
 import TabNavigator from "./components/TabNavigator";
-import Header from "./components/Header";
 
 ReactXnft.events.on("connect", () => {
     // no-op

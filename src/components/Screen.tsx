@@ -1,4 +1,3 @@
-// import { View, StyleSheet, StyleProp, ViewStyle } from "react-native";
 import React from "react";
 import { View } from "react-xnft";
 
